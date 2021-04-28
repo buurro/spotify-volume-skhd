@@ -1,5 +1,9 @@
 # Spotify volume control for skhd
 
+## Prerequisites
+
+- [skhd](https://github.com/koekeishiya/skhd)
+
 ## Installation
 
 ```bash
